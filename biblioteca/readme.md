@@ -4,6 +4,6 @@
 criei um repositório e fiz commit 
 
 # identificação:
-nome| Alexandre MOUNSSEf | 
+nome| Alexandre MOUNSSEF| 
 |--------|---------------|
 email| 38876@alunos.ipca.pt
